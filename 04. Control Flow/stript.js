@@ -52,3 +52,45 @@
 // }
 
 
+// SWITCH STATEMENTS
+// let x = 2;
+// let bulb;
+
+// switch (x) {
+//     case 0:
+//         bulb = "off";
+//         console.log(bulb)
+//         break;
+//     case 1:
+//         bulb = "on";
+//         console.log(bulb)
+//         break;
+//     default:
+//         bulb = "no value found";
+//         console.log(bulb)
+// }
+
+
+// 1. Create variable name (fruit) & store "banana"
+// 2. If case is "Banana" print "Banana is good!"
+// 3. If case is "Orange" print "I am not a fan of orange."
+// 4. If case is "Apple" print "How you like the apples"
+// 5. default "I have never heard of that fruit"
+
+let fruit = "papaya"
+
+switch (fruit) {
+    case "banana":
+    console.log("Banana is good!");
+    break;
+    case "orange":
+    console.log("I am not a fan of Orange");
+    break;
+    case "apple":
+    console.log("How you like the apples");
+    break;
+    default:
+    console.log("I have never heard of that fruit");
+    break;
+}
+

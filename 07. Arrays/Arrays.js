@@ -29,13 +29,13 @@
 // 4. Create array name (mixedArr) and store ["string", ["otherarray"], 123, true]
 // 5. Now Access each item in that array by using [] notation.
 
-const favSingers = ['Atif', 'sonu', 'udit'];
-console.log(favSingers[0]);
-const favNumbers = [1, 4, 7, 9];
-const mixedArr = ['Manoj', ['one', 'two'], 123, true];
-console.log(mixedArr[0]);
-console.log(mixedArr[1]);
-console.log(mixedArr[1][0]);
-console.log(mixedArr[1][1]);
-console.log(mixedArr[2]);
-console.log(mixedArr[3]);
+// const favSingers = ['Atif', 'sonu', 'udit'];
+// console.log(favSingers[0]);
+// const favNumbers = [1, 4, 7, 9];
+// const mixedArr = ['Manoj', ['one', 'two'], 123, true];
+// console.log(mixedArr[0]);
+// console.log(mixedArr[1]);
+// console.log(mixedArr[1][0]);
+// console.log(mixedArr[1][1]);
+// console.log(mixedArr[2]);
+// console.log(mixedArr[3]);
